@@ -12,4 +12,4 @@ mi ultima linea en el repositorio
 
 nueva actividad
 
-finalizamos cn github
+finalizamos con github
